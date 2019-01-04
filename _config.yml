@@ -1,9 +1,6 @@
 ...
 defaults:
   -
-    scope:
-      path: "projects"
-      type: "pages"
     values:
       author: "David Rand"
 ...
