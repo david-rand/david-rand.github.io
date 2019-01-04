@@ -1,1 +1,10 @@
+...
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      author: "David Rand"
+...
 theme: jekyll-theme-leap-day
